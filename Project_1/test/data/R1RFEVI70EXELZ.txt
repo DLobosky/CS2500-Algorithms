@@ -1,0 +1,4 @@
+
+
+This set uses LEDs that replace the color wheel and lamp so it runs cooler, quieter, uses less power, and provides a wider color gamut.
+      

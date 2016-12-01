@@ -1,0 +1,4 @@
+
+
+Fast and stable.I was using Transcend P5 9-in-1 USB 2.0 Flash Memory Card Reader TS-RDP5K (Black) to test, initially thought this might be the bottleneck but looking at other speed reports it seems no one reported higher readings than mine.Using Flash Memory ToolKit 2.0, I was able to get consistent 19.3 MB/s reads and 15.6 MB/s writes on the low level benchmark, and comparable results on the file benchmark.Check my pictures.I am pretty satisfied given the sale price I paid for it ($23), only time will tell how reliable the card is, but I have used many Lexars before and they as reliable as any sandisk card I have ever owned.
+      

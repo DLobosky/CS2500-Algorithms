@@ -1,0 +1,4 @@
+
+
+Here are the good and bad for this product:.ADVANTAGES1. This is the cheapest USB 3.0 16gb flash drive on the market.2. It is very compact.3. I never had a Patriotic Memory flash drive go bad on me..DISADVANTAGE1. The advertised USB 3.0 transfer speed of 5 gb/s is a FRAUD! The manufacturers live in a dream world! You will never achieve this speed!2. I get 2.5-2.8 mb/s on USB 2.0 transferring *.doc files. USB 3.0 speeds are much slower. Here are the results:.. . . . *.doc files . . . . . 7.3 to 612 kb/s. . . . *.bak files . . . . . 1.8 mb/s. . . . *.pdf files . . . . . 11 mb/s.3. The fastest speed was achieved on a large *.pdf file at 14 mb/s. This only lasted two seconds.
+      

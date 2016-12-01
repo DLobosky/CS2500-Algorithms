@@ -1,0 +1,7 @@
+
+
+I know there are many hardware design engineers and students who suffer from  &quot;VHDL anxiety&quot; since it tends to seem alot less intuitive than verilog (especially in this age when C has surpassed ada as a common programming language taught at universities). For this reason Yalamanchili's VHDL Starter's Guide represents a nice contribution to the field. There is enough material in the guide to satisfy, say a senior computer-engineering student who is being intorduced for the first time. My only complaint about the book is its lack of appendices and specification of the entire language. So look somewhere else if this is the purpose for buying a VHDL book. However, as a place to start, it seems quite effective in developing the confidence needed to move on to the more technical aspects of synthesis and simulation. By the way, the author has written a  thicker introductory hardcover book on VHDL published by Prentice Hall. The title is different, but it is virtually the same content. Little if anything was changed from that book to this starter guide. So be careful.
+
+
+
+      

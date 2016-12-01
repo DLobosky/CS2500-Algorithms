@@ -1,0 +1,7 @@
+
+
+This is a classic text on fluid mechanics, and an essential for any serious researcher in the field.  This book starts by deriving the basic equations of fluid dynamics (a few simple equations - easy, huh?), then each subsequent chapter discusses narrower topics such as viscosity, turbulence, supersonic flow, etc.  As a text for a student, this book has some serious limitations in my view.  I would not recommend this book to someone approaching the material for the first time, or to teach oneself, it is really best as a research resource for a professional or graduate student.  One thing that I didn't like about this book (and this is a complaint about the LL series in general) is that it is very difficult to separate which topics are general and which are very specific.  The reader needs to know a bit about hydrodynamics before approaching this book in my opinion.  For example, LL discuss the Rankine-Hugoniot equations for flow across a shock (a general result fundamental to hydrodynamics), then in the next section they discuss the supersonic corrugation instability, a subject that is really of interest to a small number of researchers and advanced graduate student in specific fields.  Overall, not a great learning text, but an irreplacable reference on hydrodynamics.  If you are looking for an introductory text, start with Batchelor.
+
+
+
+      

@@ -1,0 +1,7 @@
+
+
+Ok, my problem is solved. For me the Linksys BEFW11S4 wireless router was not the way to go. Although some users may be thrilled with this product, I've gone back to my orginal Linksys router the BEFSR41. Its the king of the hill when it comes to home networking. Now I still need wireless...so I bought the Linksys wireless AP model WAP11. So you say what is the difference?  Stability is better. Plus I can now use my print server which connects using IPX/SPX protocol on all my computers. Look, go to the linksys site. Check the features on this unit. You will find that they will not say &quot;Compatible with All Standard Internet Applications &quot; but check the BEFSR41 and the WAP11 They have it in their features. So what do you get from that? Exactly, you can not use the BEFW11S4 for all applications. Sure , some people love it! It does have a fast connection and for basic internet only, its fine. But with the WAP11 I can relocate the wireless router which now can extend my range by placing the WAP11 in the best location in my home. I can now take my laptop outside and relax by the pool and dial into my business. Life is sweet. Linksys is still the best, but not yet this unit. I'll sell my BEFW11S4 on Amazon or Ebay.
+
+
+
+      

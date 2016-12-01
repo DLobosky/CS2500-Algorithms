@@ -1,0 +1,7 @@
+
+
+Overall this suite is excellent with a beautiful new interface.  Science and other technical users need to be made aware that Microsoft has removed Visual Basic for Applications(entire suite) and the Analysis Toolpack from Excel 2008.  Be careful that Microsoft does not in fact sell you a "downgrade".  For business users the suite is excellent.  Everything seems to run well and is very stable at least on my Macs.
+
+
+
+      

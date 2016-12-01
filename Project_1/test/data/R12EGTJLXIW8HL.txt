@@ -1,0 +1,4 @@
+
+
+Was easy to install using wizard on CD.  Has stand so it can be set vertically.  Includes screws for wall mounting.Using D-Link DWA-130 USB adapter, it connected at 150 Mbps in N only mode.  Using DWA-130 (N type adapter) in mixed N and G mode, it connected at 54 Mbps.If you run in mixed mode the N devices default to G speeds.  Spent an hour on phone with D-Link support to find that out.I wasted my money.  I should have just kept my old G Trendnet router.For all I know all N routers default to G speeds with N devices when in mixed mode.Update 06/08/2011: I had 2 of these fail within 1 year's time.  I have started using NetGear.  I hope they last better.
+      

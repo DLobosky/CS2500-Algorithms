@@ -1,0 +1,7 @@
+
+
+Street Atlas 2004 has a problem that if the version of Windows is not English or if the user sets languages other than English as their default language set on US version of Windows, SA 2004 does not work at all.  So, I have to change the language setting of my US version of Windows XP and reboot the computer every time that I need to run SA 2005.  It was so cumbersome and I wished that this problem is fixed in SA 2005.  However, SA 2005 has the same problem and it seems like DeLorme does not care about this problem at all.  If you are a user who uses different language setting on Windows, you should try Microsoft Streets & Trips instead of SA 2005.  SA 2005 has better GPS capability than MS S & T, however, my choice is S & T for this reason.I gave 2 stars because it does a job sometimes when I don't mind rebooting my computer and giving up other jobs that need asian language support.  I do this once or twice a year.
+
+
+
+      

@@ -1,0 +1,33 @@
+// Reading in the provided file
+
+#include <iostream>
+#include <fstream>
+#include <string>
+using namespace std;
+
+int main () {
+  string line;
+  ifstream myfile ("data.txt");
+  if (myfile.is_open())
+  {
+    while ( getline (myfile,line) )
+    {
+      cout << line << '\n';
+    }
+  
+	std::string token;
+
+	while(std::getline(myfile, token, ','))
+	{
+		std::cout << token << '\n';
+	}
+	
+	myfile.close();
+  }
+
+  else cout << "Unable to open file"; 
+
+  return 0;
+}
+
+

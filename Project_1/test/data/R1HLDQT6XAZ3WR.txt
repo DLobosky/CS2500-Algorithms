@@ -1,0 +1,7 @@
+
+
+I've owned this drive since August 2007 and have had no problems with it yet.  Buying a hard drive, especially an external unit, is always something of a crapshoot, because the mechanical parts are always more liable to failure than most other parts of a PC, but if you do your homework and buy from a manufacturer you've had success with in the past, you'll do all right most of the time.  I've been buying hard drives, internal and external, for nearly 14 years now and have never had one fail outright on me (though one was DOA and a couple of others have acquired bad sectors over time).  It helps to bear in mind that external hard drives, advertising notwithstanding, aren't really intended for heavy-duty program work; they're meant for backup and data storage.This drive is, as other reviewers have noted, extremely easy to set up.  My particular model only requires one USB cable to connect but users who have a two-cable model can get an add-on USB hub (powered models can be had from $20 up) to get more USB ports.  IIRC the drive came formatted NTFS out of the box, so no conversion or reformatting was necessary.  Unless you run Linux or Mac, or still stick with an older version of Windows on at least one of your active machines, you'll not need to reformat your drive.  The drive, which has its own AC adapter, powers down automatically after a period of inactivity to save wear and tear and reduce heat issues, so do be prepared to wait a couple of seconds if you access the drive after it's been idle for a lengthy period of time.
+
+
+
+      

@@ -1,0 +1,4 @@
+
+
+Powers the following system superbly:- EVGA 132-CK-NF78-A1 nForce 780i SLISocket 775 A1 Version Motherboard- Intel Core 2 Quad Q9550 Processor, 2.83 GHz,12M L2 Cache, 1333MHz FSB, LGA775- Vista Business 64-bit Operating System- Zalman CNPS9700NT Copper Heat Pipe CPU Cooler- OCZ OCZ2N800SR4GK SLI DDR2 PC2-64004 GB Dual Channel Memory Kit- EVGA 512-P3-N976-AR e-GeForce 9800 GTSuperclocked 512MB DDR3 PCI-E 2.0 Graphics Card- WD VelociRaptor 300 GB Hard Drive 2.5 Inch,16 MB Cache, 10,000 RPM SATA II WD3000GLFS
+      

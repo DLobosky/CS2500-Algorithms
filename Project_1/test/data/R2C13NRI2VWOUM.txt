@@ -1,0 +1,7 @@
+
+
+This is a pretty good chess program for beginners & intermediate players, has a lot that helps you learn, including of course not-too-bad player simulation.  It's not perfect, but I would recommend it if you're looking for something for anyone who wants to learn or get better.There is a long list under "how this program could have been better".  See some of the other reviews, but my top 3 gripes are: (1) dumb programming that chews up the CPU even when the program is supposed to be idle; (2) bugs, especially a "hang" problem on single-cpu/single-core machines, where the game program just gets stuck somewhere (looks like a race condition; solution is to temporarily lower the priority of the TheKing processes by using TaskManager); (3) explanations of bad moves, or recommendations of good moves, provide detail but not the big picture.Finally, it does appear to run fine in Vista: I installed it normally and have been playing it without problems.  (I haven't seen the hang problem, but since I have a dual-core machine now I don't expect the race condition to occur.)
+
+
+
+      

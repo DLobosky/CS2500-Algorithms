@@ -1,0 +1,7 @@
+
+
+We are replacing a perfectly good Dell switch with this one, and have been happy.  The Dell was fine, but had a very loud cooling fan. Just on energy use alone we can justify this purchase (100W saved over 1 year is 876 kilowatt hours, or roughly $100).  The Procurve has a great warranty (lifetime), good build quality, no fan noise, and low energy use.  The 10/100 ports for workstations are plenty fast, then we use a single gigabit upload cable connect to our main backbone.  Setup is a breeze, and there is a very useful "mode" switch to control the blinking lights.Consider also the D-Link DES-1024D.if you don't need a gigabit uplink.  The D-Link uses even less power, and has a few tricks to reduce that even more if cables are short and computers are idle.Note that as of this writing, the price for this switch is $100 higher in "office products" than "electronics".
+
+
+
+      

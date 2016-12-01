@@ -1,0 +1,7 @@
+
+
+I attached an SMC EZ-connect access point to a Road Runner cable modem, and with the accompanying SMC card in my Vaio Z505-HS (running Win98), it seems to work just fine.  (For my comments about the access point, go to that product)I had to actually run the utility that came with the SMC card before the Vaio could talk to Road Runner.  Setting up the network settings from native Win98 was not sufficient.  (See next paragraph.)My 3Com AirConnect wireless PC card from work does not seem to be able to talk to the SMC access point.  The SMC card works fine on the wireless network at work, so it's not a reciprocal problem.  I suspect this may be due to the fact the 3Com driver does not support all the functions that the SMC access point uses, such as channel number.  My officemate has a wireless SMC router at home with a Lucent Gold Card and reports it works.  (My SMC card works with her router as well.)Overall, the product works fine once you install the utility that comes with it.
+
+
+
+      

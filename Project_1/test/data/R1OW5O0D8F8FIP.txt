@@ -1,0 +1,7 @@
+
+
+Many people buy Canon printers because Canon printers used to allow refill the inks and their ink tank design.However, since Pixma4200 and this 4300 also, Canon introduced 8 series ink tank has chip to measure how many times the printer had asked tank to produce the ink.  The firmware inside the printer calculates what would be the max ink shot it could produce.  If you refill before the ink tank was empty, it will still shut you off when the number of ink droplets reachs the pre-set number.You will be forced to acknowledge that you will void the warranty on that printer head.  If you think that is the end of trouble, you are wrong. The firmware will continue monitor how many ink droplets from this refilled ink, you will get warnings over and over again for the warraty is void, the good thing is that it will still tell you that ink tank is empty. You may say, okay, I had agreed void my warranty, why does Canon still want me to void my warranty again and again? Ask those engineers in Japan will not get any answer back to you.I do like this printer auto-duplex that allowing you print both side the paper without human flip the paper.  It also can print more pages per tank of ink than 4200, almost 60% more pages with same kind of content and resolution.
+
+
+
+      

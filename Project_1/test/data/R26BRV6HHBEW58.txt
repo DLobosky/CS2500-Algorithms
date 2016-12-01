@@ -1,0 +1,7 @@
+
+
+This book does a good job covering Microsoft Access 2007.  Moreover, the book serves as a good transition guide for users moving from earlier versions of Microsoft Access to Microsoft Access 2007.As does Microsoft Excel 2007 compared to earlier versions of Microsoft Excel (see my review of Microsoft  Office Excel  2007 Plain & Simple (Plain & Simple Series) here), Microsoft Access 2007 offers a user interface that differs significantly from earlier versions of Access.  This book does a good job balancing coverage of the features and functions of Microsoft Access with the salient features of the new user interface.This book provides good and basic coverage of the main features and functions of Microsoft Access...a component of the Microsoft Office suite that requires a different skill set than the other components, such as Microsoft Excel and Microsoft Word, of the Microsoft Office suite.While this is an introductory book, it is accessible and provides some basic background on databases in general.  This is a good book for individuals new to databases in general as well as individuals switching to Microsoft Access 2007 from earlier versions of Microsoft Access.
+
+
+
+      

@@ -1,0 +1,4 @@
+
+
+Here are the good and bad on this product:.ADVANTAGES1. This is the cheapest brand name USB 3.0 card.2. There were no software installation problems. Everything went smoothly..DISADVANTAGES1. You will never get the advertised USB 3.0 speed of 5 gb/s. It is fraudulent advertisement by the manufacturer to state this.2. I average 2.5-2.8 mb/s on my USB 2.0. Here are the transfer speeds for USB 3.0 using the HighPoint RocketU 1022A:.. . . . *.doc files  7.3 to 612 kb/s. . . . *.bak files  1.8 mb/s. . . . *.pdf files  11.0 mb/s.3. The highest speed achieved was 14 mb/s on a large .pdf file. That speed only lasted for 2 seconds.
+      

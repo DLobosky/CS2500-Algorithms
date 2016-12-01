@@ -1,0 +1,7 @@
+
+
+This is Dedekind's famous creation of the theory of (algebraic number) rings and modules, as an appendix to his edition of Dirichlet's LECTURES ON NUMBER THEORY. In fact it went through several editions, and Noether insisted that her students read every edition of it. Her watchword was &quot;It is all in Dedekind&quot;, meaning largely this work. And she was right, in a very deep sense the whole modern approach to abstract algebra is in Dedekind, though it took her phenomenal genius to *find* it there. Anyone knowing the basic modern ideas of rings and modules can read this with pleasure, both as the origins of abstract algebra with many fine insights to offer, and as a connection to the concrete motives. Of course Dedekind wrote for people who did not know such things. But he assumed they would think very, very hard. He also assumed some arithmetic ideas not widely taught today, but nicely explained in Stillwell's preface. Dedekind is a wonderful writer, well served here by a clear translation. You are apt to fall in love with this book, and want to accompany it with Dirichlet's own LECTURES ON NUMBER THEORY, written up by Dedekind, and also translated to english by Stillwell.
+
+
+
+      

@@ -1,0 +1,7 @@
+
+
+This Slackware is almost 10 years old and shouldn't be offered. It only confuses those people who start with Linux. It will not work on today's hardware, it has no drivers at all, it is all different today. On the moment of writing, the current version of Slackware is 13.
+
+
+
+      

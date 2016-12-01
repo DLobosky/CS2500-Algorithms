@@ -1,0 +1,7 @@
+
+
+I paired this with a StarTech USB to PS2 Keyboard and Mouse Adapter so that I could share one keyboard and mouse between two computers (Windows Vista desktop and Windows 7 laptop), and it's working great for me.  It only takes a couple of seconds for my computers to recognize that the connection has been switched, which is far more convenient than pulling out a second keyboard and mouse.  After four years of doing just that, I'm ecstatic that I finally got this setup.Kevin, another reviewer, noted that a USB hub didn't work with his, and my only (unpowered) hub didn't work, either.  Connecting through the PS/2 to USB adapter works great, though, and does allow me to use both devices.    The switch is incredibly simple to setup (connect the cables) and use (push the buttons).  It's smaller than I had imagined and fits on my desk without any trouble.  I'd prefer a horizontal configuration for stability, as the cables tend to want to pull it off balance, but it wasn't too hard to get it to stay in place.As noted in other reviews, this doesn't come with any cables, so make sure that you have some or get some.Overall, highly recommended if you want a USB switch box.
+
+
+
+      

@@ -1,0 +1,7 @@
+
+
+I would suggest getting the Thermaltake eSATA/USB version instead Thermaltake  BlacX eSATA  USB Docking Station, which is what I have.  The price is currently only $4, but you gained the option of connecting via eSATA to maximize transfer speed.  Even if your current computer/motherboard doesn't support eSATA, your next computer/motherboard most likely will and spending a few more dollars now will make it future proof.  I have successfully used the eSATA/USB version with Samsung, WD, Seagate drives up to 1.5TB without any issue and the eSATA transfer rate are constantly 2 times faster (depend on the hard drive).
+
+
+
+      

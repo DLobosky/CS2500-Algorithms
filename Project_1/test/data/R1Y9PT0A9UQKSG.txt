@@ -1,0 +1,7 @@
+
+
+It is a tribute to the versatility of the Unified Modeling Language (UML) and a compliment to the authors that it can be used to model web applications. Given the origins as a tool to model projects using  Object-Oriented Programming (OOP), it is easy to believe that that is the  only place where it can be used. Web programming is largely done in  JavaScript and VBScript, where the first is only somewhat object-oriented  and latter nowhere close.   In this book the author introduces some new  notation that can be used to model the construction of web applications,  and given the topics of some recent journal articles, it is somewhat  overdue. I have read some articles recently where the topic is the planning  of a company web site. The consensus is that one should plan for several  months before the official launch. Translated into real terms, this amount  of planning can be summed up in a single phrase, "model it."   The real  significance of this book is the introduction of the concept of modeling  with regard to web applications and that is what makes it valuable. Without  the appropriate terms, it is not possible to properly describe a course of  action, and the author introduces the necessary terms.   If you are in  the process of planning a web application, either a replacement or a new  one, then it is worth your while to examine this book. For many businesses,  a quality web presence is now an absolute necessity for survival. This book  will help you achieve that.
+
+
+
+      

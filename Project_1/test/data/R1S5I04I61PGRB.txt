@@ -1,0 +1,7 @@
+
+
+Doing Active Directory right was important to my small technology company, so I bought more than ten books on Active Directory, Windows 2000 Server, and DNS. This Dummies book I took home and planned to skim through it  first, thinking it would be a nice quick introduction.The book got  mislaid, and I did not pick it up again until I was nicely up to speed with  Active Directory and had done several installations. I read it anyway on a  Saturday night as a quick review and was surprised at the clear style, nice  organization, and adequacy of its coverage of the subject matter.If you  have just a day or two to get up to speed with this important new Microsoft  technology, this book will certainly do. System administrators and  architects will want a more technical treatment.
+
+
+
+      

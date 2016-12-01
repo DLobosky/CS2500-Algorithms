@@ -1,0 +1,4 @@
+
+
+Well I ordered the Kodak DVD's from Amazon and they didn't produce one proper burn.  I returned them and ordered the Memorex.  I had to do all of them in 2.4 and most of the time I used nero it didn't work. When I used Image Burn at 2.4 I got maybe half of them burned properly.As I said on the Verbatim I went too Rip off buy to sample the Verbatim and I borught a 5 pack for 18.99.  I'm not a happy camper about that.  But I will say this All of them gave me proper  burns and even better quality than the memorex that did come out good.  I will have to buy Verbatim I just hate to pay the price.  But I can burn at 6X and in Nero Thanks for amamzon it's only a dollar a disk.here is an example of memorex burmW 16:04:38 Retry Failed - Reason: Invalid Address For WriteW 16:04:38 Retrying (5 of 20)...W 16:04:38 Retry Failed - Reason: Invalid Address For WriteW 16:04:38 Retrying (6 of 20)...
+      

@@ -1,0 +1,4 @@
+
+
+I installed this in a Canon 5D Mark III. The card was properly formatted without any error codes. While I cannot attest to the actual read/write speeds, it certainly does not appear to cause a bottleneck with rapid RAW photo storage or with full HD video. I've seen no dropped frames, nor have there been any difficulties in transferring images/movies to my Mac directly from the camera. I installed this card in tandem with the Lexar Professional 400x 128GB CF UDMA 7 card and the two work together without any problem.I was able to download the Image Rescue 4 software from Lexar's website. There is normally a charge for this software, but a free code is provided with both of these cards. The software runs without problem on my Mac Pro running Snow Leopard. Fortunately, I haven't had need for it, but it's nice to know it's there just in case.
+      

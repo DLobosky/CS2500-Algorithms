@@ -1,0 +1,7 @@
+
+
+My old setup (firewire 400 card reader, sandisk Extreme III card) transfers a 1Gb file at 104.6 Mbps. The new setup (this card plus a Lexar CompactFlash FireWire 800 Card Reader RW034-001) does the same job at 285 Mbps. I have no complaints.
+
+
+
+      

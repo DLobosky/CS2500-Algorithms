@@ -1,0 +1,7 @@
+
+
+I have two USB 3.0 ports on my new P8P67 LE motherboard and have been using two USB3.0 external disks successfully.  I wanted to add another and hoped that this hub would do the trick.  On this hub, ports 1 and 4 never worked with either disk but ports 2 and 3 worked briefly before they did not work.  After this happened Windows 7 Pro 64 bits failed to shutdown without hanging and I had to resort to the power switch.  After disconnecting the hub and rebooting Windows shutdown properly and I was able to see the USB 3.0 disks so I know that they worked.  I am returning this hub to Amazon for a refund.
+
+
+
+      

@@ -1,0 +1,4 @@
+
+
+The TRENDnet TEG-S5g 5 port switch is a very simple way to expand the number of ports on your local network.  I am using it to add extra ports to the Verizon, 4 port, FiOS router provided by Verizon with their FiOS installation.  It is dirt simple, no set-up required.  Just connect the switch to the router using an Ethernet cable plugged into any output port on the router and any port on the switch and you can then use the rest of the ports on the switch to connect other net components to the network.  Works great!  Since the FiOS router is only a 100 Mb router, I'm using cat5 cables on my network, but if you want to take advantage of the switch's full Gigabit speed, use Cat5e or Cat6 cables for connecting components.
+      

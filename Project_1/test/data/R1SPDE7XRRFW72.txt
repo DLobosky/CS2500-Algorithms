@@ -1,0 +1,4 @@
+
+
+Coming from a Pentium 4, this is a huge step forward. The CPU is very fast and efficient. I definitely feel a huge productivity boost for my work. As a graphic/web designer, I usually have 10-20 windows open at once, including Adobe Creative Suite. This thing plows through everything I throw at it. Match it with a solid state drive and you've got a golden PC.Motherboard: ASRock P67 Pro3 B3CPU: Intel Core i7-2600 @ 3.4GHzCPU Cooler: Cooler Master Hyper 212 PlusStorage: Crucial M4 256GB Solid State DriveMemory: Corsair XMS3 8GBGPU: EVGA GeForce GTX 560 Superclocked 1024MBOptical: LG Electronics LightScribe 10x SATA Blu-ray Combo Internal DrivePSU: Antec BP550 Plus 550W Modular Power SupplyOS: Windows 7 Home Premium 64-bitCase: Cooler Master HAF 912Monitor: ViewSonic VG2436wm-LED 24" @ 1080P
+      

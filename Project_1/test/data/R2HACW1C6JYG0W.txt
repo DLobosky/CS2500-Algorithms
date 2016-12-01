@@ -1,0 +1,4 @@
+
+
+This is probably the best Discrete Math book that I have found. It's very thorough and covers all the topics of Discrete Mathematics that one would expect it to. There is a proof for most major theorems and numerous examples.The &quot;but...&quot; is that this book, like almost every math text that I have ever come across, is NOT very readable and gets EXTREMELY boring at parts. I would say that math books can only be so interesting, but I have come across one math text that I honestly enjoyed from beginning to end: &quot;Linear Algebra and Its Applications,&quot; by Lay. That book is proof that it can be done, but this book sure isn't.Also, one last word of advise... I found that the student solutions guide that was written for this text is a must have. It has the worked out solutions to many of the books problems, which is a big help considering that Discrete Math is all about how you found the answer.
+      

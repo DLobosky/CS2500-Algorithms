@@ -1,0 +1,7 @@
+
+
+This is an excellent introduction to the application level of networking. Applications include protocols like telnet, mail, and the web. This is the heart of the book but there is also some discussion about the basics of networking at the physical layer including routing algorithms and packet structure.The organization of the book is interesting. It starts with a high level introduction to network, then goes into applications, and ends up with the physical layer. Either way, the text is good, though terse, and the illustrations are excellent.This textbook makes for a find way to learn the fundamentals of network applications and protocol design.
+
+
+
+      

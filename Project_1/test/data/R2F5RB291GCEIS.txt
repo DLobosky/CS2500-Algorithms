@@ -1,0 +1,7 @@
+
+
+This book nicely sets forth a detailed methodology for doing swimlane diagramming for workflow business processing. This book is for analysts; the discussion is about the nature of business processes that have workflow as a key characteristic. It is not about the architecture of computer solutions for such processes. If you follow the methodology in this book and flesh out the diagrams with use cases (just briefly touched on here), you will have captured most of the requirements for a business workflow process.The book is nicely bound and well written. The authors have been around a while and the vocabulary and approach fit nicely with older concepts like business process reengineering. The authors are not unaware of the latest developments and &quot;UML&quot; crops up  here and there but not in the index. The diagramming is very simple compared to UML activity diagrams.This is good reading for the domain experts on a team working on the requirements document and a nice primer for geeks who are forced for the first time to talk to the business side of an enterprise.
+
+
+
+      

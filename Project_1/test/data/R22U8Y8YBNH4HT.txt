@@ -1,0 +1,7 @@
+
+
+This card didn't work properly in my cell phone, a Samsung A707 (Cingular Sync).Every time the cell was powered on, the card had to be reseated, otherwise it wouldn't be properly recognized.I saw this problem reported in a number of forums, though I don't remember Sandisk being explicitly mentioned.Getting a Kingston 1GB microsd card solved this problem.
+
+
+
+      

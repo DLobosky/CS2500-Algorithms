@@ -1,0 +1,7 @@
+
+
+After trying many different media streamers (including among others my XBOX 360, DirecTV receivers, etc.)I think I've finally hit the jackpot. The WD TV Live Plus adds a couple of crucial features that were missing in the WD TV Live: Netflix and Menu support for DVD ISOs. I'm trying to review the product and not the company's practices but I will say that I had purchased a WD TV Live a few weeks ago and I promptly returned it since the lack of DVD Menu Support and Netflix meant that I had to keep my Roku streamer around and rely on a DVD player than just streaming the ripped ISOs.What I Liked+ Support for DVD Menus (from ISO)+ Support for every media format I can throw at it including MKV+ Fast responsive UI+ Incredibly easy setup (Literally just plugged it in)+ Smooth video streaming without a hiccup even from a lowly ReadyNas Duo+ Subtitles+ Netflix and Pandora SupportWhat I Didn't Like- Very small remote. Hard to use- Lack of digital audio coax output- (Included) Dongle required for Component Output
+
+
+
+      
